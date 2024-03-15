@@ -23,10 +23,3 @@ var_dump(Singleton::getInstance());
 var_dump(Singleton::getInstance());
 var_dump(Singleton::getInstance());
 
-// var_dump($instance->getInstance());
-
-// var_dump($instance->getInstance());
-
-// var_dump($instance->getInstance());
-
-
